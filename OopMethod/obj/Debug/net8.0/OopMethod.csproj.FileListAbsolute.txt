@@ -1,0 +1,14 @@
+C:\Users\moawe\source\repos\OopMethod\bin\Debug\net8.0\OopMethod.exe
+C:\Users\moawe\source\repos\OopMethod\bin\Debug\net8.0\OopMethod.deps.json
+C:\Users\moawe\source\repos\OopMethod\bin\Debug\net8.0\OopMethod.runtimeconfig.json
+C:\Users\moawe\source\repos\OopMethod\bin\Debug\net8.0\OopMethod.dll
+C:\Users\moawe\source\repos\OopMethod\bin\Debug\net8.0\OopMethod.pdb
+C:\Users\moawe\source\repos\OopMethod\obj\Debug\net8.0\OopMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moawe\source\repos\OopMethod\obj\Debug\net8.0\OopMethod.AssemblyInfoInputs.cache
+C:\Users\moawe\source\repos\OopMethod\obj\Debug\net8.0\OopMethod.AssemblyInfo.cs
+C:\Users\moawe\source\repos\OopMethod\obj\Debug\net8.0\OopMethod.csproj.CoreCompileInputs.cache
+C:\Users\moawe\source\repos\OopMethod\obj\Debug\net8.0\OopMethod.dll
+C:\Users\moawe\source\repos\OopMethod\obj\Debug\net8.0\refint\OopMethod.dll
+C:\Users\moawe\source\repos\OopMethod\obj\Debug\net8.0\OopMethod.pdb
+C:\Users\moawe\source\repos\OopMethod\obj\Debug\net8.0\OopMethod.genruntimeconfig.cache
+C:\Users\moawe\source\repos\OopMethod\obj\Debug\net8.0\ref\OopMethod.dll
