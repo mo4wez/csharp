@@ -1,0 +1,14 @@
+C:\Users\moawe\source\repos\OOPConstructor\bin\Debug\net8.0\OOPConstructor.exe
+C:\Users\moawe\source\repos\OOPConstructor\bin\Debug\net8.0\OOPConstructor.deps.json
+C:\Users\moawe\source\repos\OOPConstructor\bin\Debug\net8.0\OOPConstructor.runtimeconfig.json
+C:\Users\moawe\source\repos\OOPConstructor\bin\Debug\net8.0\OOPConstructor.dll
+C:\Users\moawe\source\repos\OOPConstructor\bin\Debug\net8.0\OOPConstructor.pdb
+C:\Users\moawe\source\repos\OOPConstructor\obj\Debug\net8.0\OOPConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moawe\source\repos\OOPConstructor\obj\Debug\net8.0\OOPConstructor.AssemblyInfoInputs.cache
+C:\Users\moawe\source\repos\OOPConstructor\obj\Debug\net8.0\OOPConstructor.AssemblyInfo.cs
+C:\Users\moawe\source\repos\OOPConstructor\obj\Debug\net8.0\OOPConstructor.csproj.CoreCompileInputs.cache
+C:\Users\moawe\source\repos\OOPConstructor\obj\Debug\net8.0\OOPConstructor.dll
+C:\Users\moawe\source\repos\OOPConstructor\obj\Debug\net8.0\refint\OOPConstructor.dll
+C:\Users\moawe\source\repos\OOPConstructor\obj\Debug\net8.0\OOPConstructor.pdb
+C:\Users\moawe\source\repos\OOPConstructor\obj\Debug\net8.0\OOPConstructor.genruntimeconfig.cache
+C:\Users\moawe\source\repos\OOPConstructor\obj\Debug\net8.0\ref\OOPConstructor.dll
