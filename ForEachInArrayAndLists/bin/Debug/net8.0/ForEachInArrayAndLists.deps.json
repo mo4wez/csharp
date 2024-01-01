@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ForEachInArrayAndLists/1.0.0": {
+        "runtime": {
+          "ForEachInArrayAndLists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForEachInArrayAndLists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

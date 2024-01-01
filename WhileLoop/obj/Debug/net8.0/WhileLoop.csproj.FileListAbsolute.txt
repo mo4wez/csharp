@@ -1,0 +1,14 @@
+C:\Users\moawe\source\repos\WhileLoop\bin\Debug\net8.0\WhileLoop.exe
+C:\Users\moawe\source\repos\WhileLoop\bin\Debug\net8.0\WhileLoop.deps.json
+C:\Users\moawe\source\repos\WhileLoop\bin\Debug\net8.0\WhileLoop.runtimeconfig.json
+C:\Users\moawe\source\repos\WhileLoop\bin\Debug\net8.0\WhileLoop.dll
+C:\Users\moawe\source\repos\WhileLoop\bin\Debug\net8.0\WhileLoop.pdb
+C:\Users\moawe\source\repos\WhileLoop\obj\Debug\net8.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moawe\source\repos\WhileLoop\obj\Debug\net8.0\WhileLoop.AssemblyInfoInputs.cache
+C:\Users\moawe\source\repos\WhileLoop\obj\Debug\net8.0\WhileLoop.AssemblyInfo.cs
+C:\Users\moawe\source\repos\WhileLoop\obj\Debug\net8.0\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\moawe\source\repos\WhileLoop\obj\Debug\net8.0\WhileLoop.dll
+C:\Users\moawe\source\repos\WhileLoop\obj\Debug\net8.0\refint\WhileLoop.dll
+C:\Users\moawe\source\repos\WhileLoop\obj\Debug\net8.0\WhileLoop.pdb
+C:\Users\moawe\source\repos\WhileLoop\obj\Debug\net8.0\WhileLoop.genruntimeconfig.cache
+C:\Users\moawe\source\repos\WhileLoop\obj\Debug\net8.0\ref\WhileLoop.dll

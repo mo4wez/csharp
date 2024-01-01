@@ -1,0 +1,14 @@
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\bin\Debug\net8.0\ForEachInArrayAndLists.exe
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\bin\Debug\net8.0\ForEachInArrayAndLists.deps.json
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\bin\Debug\net8.0\ForEachInArrayAndLists.runtimeconfig.json
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\bin\Debug\net8.0\ForEachInArrayAndLists.dll
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\bin\Debug\net8.0\ForEachInArrayAndLists.pdb
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\obj\Debug\net8.0\ForEachInArrayAndLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\obj\Debug\net8.0\ForEachInArrayAndLists.AssemblyInfoInputs.cache
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\obj\Debug\net8.0\ForEachInArrayAndLists.AssemblyInfo.cs
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\obj\Debug\net8.0\ForEachInArrayAndLists.csproj.CoreCompileInputs.cache
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\obj\Debug\net8.0\ForEachInArrayAndLists.dll
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\obj\Debug\net8.0\refint\ForEachInArrayAndLists.dll
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\obj\Debug\net8.0\ForEachInArrayAndLists.pdb
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\obj\Debug\net8.0\ForEachInArrayAndLists.genruntimeconfig.cache
+C:\Users\moawe\source\repos\ForEachInArrayAndLists\obj\Debug\net8.0\ref\ForEachInArrayAndLists.dll

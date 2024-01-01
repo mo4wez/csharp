@@ -1,0 +1,14 @@
+C:\Users\moawe\source\repos\SwitchStatement\bin\Debug\net8.0\SwitchStatement.exe
+C:\Users\moawe\source\repos\SwitchStatement\bin\Debug\net8.0\SwitchStatement.deps.json
+C:\Users\moawe\source\repos\SwitchStatement\bin\Debug\net8.0\SwitchStatement.runtimeconfig.json
+C:\Users\moawe\source\repos\SwitchStatement\bin\Debug\net8.0\SwitchStatement.dll
+C:\Users\moawe\source\repos\SwitchStatement\bin\Debug\net8.0\SwitchStatement.pdb
+C:\Users\moawe\source\repos\SwitchStatement\obj\Debug\net8.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moawe\source\repos\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\moawe\source\repos\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfo.cs
+C:\Users\moawe\source\repos\SwitchStatement\obj\Debug\net8.0\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\moawe\source\repos\SwitchStatement\obj\Debug\net8.0\SwitchStatement.dll
+C:\Users\moawe\source\repos\SwitchStatement\obj\Debug\net8.0\refint\SwitchStatement.dll
+C:\Users\moawe\source\repos\SwitchStatement\obj\Debug\net8.0\SwitchStatement.pdb
+C:\Users\moawe\source\repos\SwitchStatement\obj\Debug\net8.0\SwitchStatement.genruntimeconfig.cache
+C:\Users\moawe\source\repos\SwitchStatement\obj\Debug\net8.0\ref\SwitchStatement.dll

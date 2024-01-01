@@ -1,0 +1,14 @@
+C:\Users\moawe\source\repos\InputInCsharp\bin\Debug\net8.0\InputInCsharp.exe
+C:\Users\moawe\source\repos\InputInCsharp\bin\Debug\net8.0\InputInCsharp.deps.json
+C:\Users\moawe\source\repos\InputInCsharp\bin\Debug\net8.0\InputInCsharp.runtimeconfig.json
+C:\Users\moawe\source\repos\InputInCsharp\bin\Debug\net8.0\InputInCsharp.dll
+C:\Users\moawe\source\repos\InputInCsharp\bin\Debug\net8.0\InputInCsharp.pdb
+C:\Users\moawe\source\repos\InputInCsharp\obj\Debug\net8.0\InputInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moawe\source\repos\InputInCsharp\obj\Debug\net8.0\InputInCsharp.AssemblyInfoInputs.cache
+C:\Users\moawe\source\repos\InputInCsharp\obj\Debug\net8.0\InputInCsharp.AssemblyInfo.cs
+C:\Users\moawe\source\repos\InputInCsharp\obj\Debug\net8.0\InputInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\moawe\source\repos\InputInCsharp\obj\Debug\net8.0\InputInCsharp.dll
+C:\Users\moawe\source\repos\InputInCsharp\obj\Debug\net8.0\refint\InputInCsharp.dll
+C:\Users\moawe\source\repos\InputInCsharp\obj\Debug\net8.0\InputInCsharp.pdb
+C:\Users\moawe\source\repos\InputInCsharp\obj\Debug\net8.0\InputInCsharp.genruntimeconfig.cache
+C:\Users\moawe\source\repos\InputInCsharp\obj\Debug\net8.0\ref\InputInCsharp.dll
